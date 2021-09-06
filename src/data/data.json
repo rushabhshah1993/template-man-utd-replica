@@ -1,0 +1,211 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "thumbnail": "https://assets.manutd.com/AssetPicker/images/0/0/15/109/1010974/MUFC_v_LUFC__120_copy1629100399770_xlargeNav.webp",
+            "headline": "August's Goal of the Month announced",
+            "content": "Bruno Fernandes came out on top in our poll for the best strike of the opening match of the season.",
+            "timeElapsedInHours": 3
+        },
+        {
+            "id": 2,
+            "thumbnail": "https://assets.manutd.com/AssetPicker/images/0/0/15/162/1024676/GettyImages_13384801651630861734088_xlargeNav.webp",
+            "headline": "August's Goal of the Month announced",
+            "content": "Jesse Lingard's Wembley double raised the tally to seven from five different Reds during the international break.",
+            "timeElapsedInHours": 8
+        },
+        {
+            "id": 3,
+            "thumbnail": "https://assets.manutd.com/AssetPicker/images/0/0/15/109/1011104/MUFC_v_LUFC__1491630833393234_xlargeNav.webp",
+            "headline": "August's Goal of the Month announced",
+            "content": "Here's your guide to all that's going on, including a game apiece for four teams.",
+            "timeElapsedInHours": 11
+        },
+        {
+            "id": 4,
+            "thumbnail": "https://assets.manutd.com/AssetPicker/images/0/0/10/164/697496/164385450JP065_Manchester_U1588350161687_xlargeNav.jpg",
+            "headline": "August's Goal of the Month announced",
+            "content": "Patrice and his legendary former manager are beaming from ear to ear, after dining with Frenchman's family.",
+            "timeElapsedInHours": 2
+        }
+    ],
+    "fixtures": [
+        {
+            "date": "2021-09-11T14:00:00.000Z",
+            "competition": "English Premier League",
+            "opponent": {
+                "name": "Newcastle United",
+                "logo": "https://assets.manutd.com/AssetPicker/images/0/0/11/180/767067/Newcastle_United_Crest_Comp_180x1801550136308485.png"
+            }
+        },
+        {
+            "date": "2021-09-14T16:45:00.000Z",
+            "competition": "Champions League",
+            "opponent": {
+                "name": "Young Boys",
+                "logo": "https://assets.manutd.com/AssetPicker/images/0/0/11/179/766803/BSC_Young_Boys_Crest_Comp_180x1801550139533335.png"
+            }
+        },
+        {
+            "date": "2021-09-19T13:00:00.000Z",
+            "competition": "English League Cup",
+            "opponent": {
+                "name": "West Ham United",
+                "logo": "https://assets.manutd.com/AssetPicker/images/0/0/11/180/767129/West_Ham_United_Crest_Comp_180x1801550155546987.png"
+            }
+        }
+    ],
+    "squad": {
+        "goalkeepers": [
+            {
+                "jersey": 1,
+                "name": "David De Gea",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000168/Treated_Player_Profile_Thumbnail_De_Gea_11626356441615.jpg"
+            },
+            {
+                "jersey": 13,
+                "name": "Lee Grant",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000166/Treated_Player_Profile_Thumbnail_Grant1626422364823.jpg"
+            },
+            {
+                "jersey": 22,
+                "name": "Tom Heaton",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/58/998119/profile_pic1625577812916.webp"
+            },
+            {
+                "jersey": 26,
+                "name": "Dean Henderson",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000164/Treated_Player_Profile_Thumbnail_Henderson1626356504141.jpg"
+            }
+        ],
+        "defenders": [
+            {
+                "jersey": 2,
+                "name": "Victor Lindelof",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000144/Treated_Player_Profile_Thumbnail_Lindelof1626423973850.jpg"
+            },
+            {
+                "jersey": 3,
+                "name": "Eric Bailly",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000153/Treated_Player_Profile_Thumbnail_Bailly1626357332062.jpg"
+            },
+            {
+                "jersey": 5,
+                "name": "Harry Maguire",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000142/Treated_Player_Profile_Thumbnail_Maguire_11626421871630.jpg"
+            },
+            {
+                "jersey": 19,
+                "name": "Raphael Varane",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/121/1014053/Player_Profile_Thumbnail_RV_metadata_removed1629814324519.jpg"
+            },
+            {
+                "jersey": 23,
+                "name": "Luke Shaw",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000135/Treated_Player_Profile_Thumbnail_Shaw1626422466032.jpg"
+            },
+            {
+                "jersey": 29,
+                "name": "Aaron Wan-Bissaka",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000158/Treated_Player_Profile_Thumbnail_Wans_Bissaka1626355531775.jpg"
+            }
+        ],
+        "midfielders": [
+            {
+                "jersey": 6,
+                "name": "Paul Pogba",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000137/Treated_Player_Profile_Thumbnail_Pogba1626423217888.jpg"
+            },
+            {
+                "jersey": 8,
+                "name": "Juan Mata",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000140/Treated_Player_Profile_Thumbnail_Mata_11626422203863.jpg"
+            },
+            {
+                "jersey": 14,
+                "name": "Jesse Lingard",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000143/Treated_Player_Profile_Thumbnail_Lingard1626422106800.jpg"
+            },
+            {
+                "jersey": 18,
+                "name": "Bruno Fernandes",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000149/Treated_Player_Profile_Thumbnail_Fernandes1626356273672.jpg"
+            },
+            {
+                "jersey": 34,
+                "name": "Donny van de Beek",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000159/Treated_Player_Profile_Thumbnail_van_de_Beek1626356866391.jpg"
+            }
+        ],
+        "forwards": [
+            {
+                "jersey": 7,
+                "name": "Cristiano Ronaldo",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/140/1019060/Player_Profile_Thumbnail_CR1630578885295.webp"
+            },
+            {
+                "jersey": 9,
+                "name": "Anthony Martial",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000141/Treated_Player_Profile_Thumbnail_Martial_11626355968632.jpg"
+            },
+            {
+                "jersey": 10,
+                "name": "Marcus Rashford",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000136/Treated_Player_Profile_Thumbnail_Rashford1626422926368.jpg"
+            },
+            {
+                "jersey": 11,
+                "name": "Mason Greenwood",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/67/1000223/Treated_Player_Profile_Thumbnail_Greenwood__2_1626423031263.jpg"
+            },
+            {
+                "jersey": 21,
+                "name": "Edison Cavani",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/55/997213/Edinson_Cavani_Landingpage1626421572829.jpg"
+            },
+            {
+                "jersey": 25,
+                "name": "Jadon Sancho",
+                "image": "https://assets.manutd.com/AssetPicker/images/0/0/15/78/1003014/Player-Profile-Thumbnail-Sancho1627370980650.jpg"
+            }
+        ]
+    },
+    "tickets": [
+        {
+            "date": "2021-09-11T14:00:00.000Z",
+            "competition": {
+                "name": "English Premier League",
+                "logo": "https://manchesterunited.seatgeekenterprise.com/weblink/10026/get.resource/images/2057/1000284.png?etag=CA5D6F312B77025C8829AB697FF5B3E2"
+            },
+            "opposition": {
+                "name": "Newcastle United",
+                "logo": "https://manchesterunited.seatgeekenterprise.com/weblink/10026/get.resource/images/2057/1000277.png?etag=F67DE3D35746D6814E716C3EDBA5C8F5"
+            },
+            "htmlContent": "<div>The initial release of tickets for this game have now been sold. There will be a number of additional releases in the lead up to the game which will be sold exclusively online. Please ensure that all supporters who wish to attend has already joined Official Membership <a href='https://tickets.manutd.com/memberships'>here</a> before selecting Register Interest above. For information on the return of fans, visit <a href='https://www.manutd.com/reunited'>manutd.com/reunited</a>.</div>"
+        },
+        {
+            "date": "2021-09-22T18:45:00.000Z",
+            "competition": {
+                "name": "Carabao Cup",
+                "logo": "https://manchesterunited.seatgeekenterprise.com/weblink/10026/get.resource/images/2057/1000287.png?etag=247F579D7EE66B3C4A9FF900B9353B0F"
+            },
+            "opposition": {
+                "name": "West Ham United",
+                "logo": "https://manchesterunited.seatgeekenterprise.com/weblink/10026/get.resource/images/2057/1000282.png?etag=C598A2A3FD07BCBD2972CF2FF2E6F4FD"
+            },
+            "htmlContent": "<div>Tickets for this game are on sale to Official Members, online only. Please ensure that all supporters who wish to attend have already joined Official Membership <a href='https://tickets.manutd.com/memberships'>here</a> before proceeding to purchase. For information on the return of fans, visit <a href='https://www.manutd.com/reunited'>manutd.com/reunited</a>. <br><br><b>A limited number of tickets were made available for school groups to claim free of charge, as part of our commitment to our young supporters, via the Fans' Forum. These sold incredibly quickly and the offer was extended to more seats which have now also sold out - no further tickets are available. </b></div>"
+        },
+        {
+            "date": "2021-09-22T18:45:00.000Z",
+            "competition": {
+                "name": "English Premier League",
+                "logo": "https://manchesterunited.seatgeekenterprise.com/weblink/10026/get.resource/images/2057/1000284.png?etag=CA5D6F312B77025C8829AB697FF5B3E2"
+            },
+            "opposition": {
+                "name": "Aston Villa",
+                "logo": "https://manchesterunited.seatgeekenterprise.com/weblink/10026/get.resource/images/2057/1000265.png?etag=71FA1EDC7204ADD995437C2BA5B32ED3"
+            },
+            "htmlContent": "<div>The initial release of tickets for this game have now been sold. There will be a number of additional releases in the lead up to the game which will be sold exclusively online. Please ensure that all supporters who wish to attend has already joined Official Membership <a href='https://tickets.manutd.com/memberships'>here</a> before selecting Register Interest above. For information on the return of fans, visit <a href='https://www.manutd.com/reunited'>manutd.com/reunited</a>.</div>"
+        }
+    ]
+}
